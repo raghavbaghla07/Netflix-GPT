@@ -26,6 +26,16 @@ unsubscribed to the onAuthStateChanged callback
 
 next: Fetch movies from tmdb
 
+- custom hook for now playing movies
+- update the store with movies data
+- create movie slice
+- update store with movies data
+- plaiing for main container & secondary container
+- Fetch data for trailer video
+- update store with trailer video data
+- Embedded the youtube video and make it autoplay and mute
+- added tailwaind classes to make main container look awesome
+
 # Features
 
 - login/sign-up page
