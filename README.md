@@ -16,6 +16,14 @@
 - Implemented sign out
 - update profile
 
+-Bugfix: Sign-up user display name, and profile picture update
+-bugfix: if user not login redirect /browse page to login and vice-versa
+unsubscribed to the onAuthStateChanged callback
+
+-add hardcoded values to constant files
+-Register on tmdb app and get access token
+-go to documentaion, get data from TMDB
+
 next: Fetch movies from tmdb
 
 # Features
