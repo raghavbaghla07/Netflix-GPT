@@ -36,6 +36,13 @@ next: Fetch movies from tmdb
 - Embedded the youtube video and make it autoplay and mute
 - added tailwaind classes to make main container look awesome
 
+- Build secondary component
+- Build Movie List
+- Build Movie Card
+- TMDB image CDN URL
+- Made the browse page look better with tailwind CSS
+- usePopularMovies custon hook
+
 # Features
 
 - login/sign-up page
