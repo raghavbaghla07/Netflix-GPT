@@ -43,6 +43,11 @@ next: Fetch movies from tmdb
 - Made the browse page look better with tailwind CSS
 - usePopularMovies custon hook
 
+-GPT search page
+-GPT search Bar
+-Multi language feature
+-Integrate GPT APIS (get openAI key)
+
 # Features
 
 - login/sign-up page
